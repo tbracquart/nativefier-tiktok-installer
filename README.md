@@ -1,6 +1,6 @@
 # TikTok Nativefier Installer 🎵📦
 
-> **NOTE:** This project is no longer maintained. Use at your own risk.
+> **NOTE:** This project is not maintained. Use at your own risk.
 
 This project provides a simple script to install TikTok as a desktop app on Linux using Nativefier.
 
