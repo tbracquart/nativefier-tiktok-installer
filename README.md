@@ -65,5 +65,5 @@ rm ~/.local/share/applications/tiktok.desktop
 
 ## 🙌 Credits
 
-Made by Thibaut Bracquart ❤️ using [Nativefier](https://github.com/nativefier/nativefier).
+Made by Thibaut Bracquart using [Nativefier](https://github.com/nativefier/nativefier).
 Feel free to fork or improve at your own discretion.
