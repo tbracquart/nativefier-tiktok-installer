@@ -67,3 +67,7 @@ rm ~/.local/share/applications/tiktok.desktop
 
 Made by Thibaut Bracquart using [Nativefier](https://github.com/nativefier/nativefier).
 Feel free to fork or improve at your own discretion.
+
+## 🪪 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
